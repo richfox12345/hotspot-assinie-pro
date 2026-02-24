@@ -1,4 +1,4 @@
-# 📡 Portail Captif Premium — WiFi Zone Assinie
+# 📡 Portail Captif Premium — WiFi Zone
 
 Interface de connexion haut de gamme pour routeur **MikroTik RB5009UPR+S+IN**  
 Développée par **Richol N'guessan Victoir** — © 2026
